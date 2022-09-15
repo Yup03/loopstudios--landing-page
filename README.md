@@ -1,5 +1,3 @@
-
-
 ![](./screenshot.jpg)
 
 ### The challenge
@@ -11,8 +9,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Checkout the final result here](https://yup03.github.io/loopstudios--landing-page/)
 
 ## My process
 
@@ -24,7 +21,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
 ### What I learned
 
 This project basically helped me to reinforce my knowledge of `CSS grid` when it comes to deal with asymetric grids and make them `responsive`;
@@ -34,12 +30,9 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Useful resources
 
-- [caniuse](https://caniuse.com)  helped me to verify which `CSS  property` is supported by which navigator or not, and occasionally fix it with a recommendation of which approach will fit in any situation.   
+- [caniuse](https://caniuse.com) helped me to verify which `CSS property` is supported by which navigator or not, and occasionally fix it with a recommendation of which approach will fit in any situation.
 - [type-scale](https://type-scale.com/) - This is an amazing website in term of implementing a great hierarchy and be consistent in design choices.
-
 
 ## My Profile at Frontend Mentor
 
 [@Yup03](https://www.frontendmentor.io/profile/Yup03)
-
-
